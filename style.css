@@ -1,0 +1,105 @@
+@font-face {
+    font-family: futura;
+    src: url(fonts/Futura-Light.ttf)
+}
+@font-face {
+    font-family: fette;
+    src: url(fonts/FetteClassicUNZFraktur.ttf)
+}
+@font-face {
+    font-family: bickham;
+    src: url(fonts/Bickham-Script-Three.ttf)
+}
+@font-face {
+    font-family: kingthings;
+    src: url(fonts/Kingthings-Spikeless.ttf)
+}
+@font-face {
+    font-family: mrsheppards;
+    src: url(fonts/Mr-Sheppards.ttf)
+}
+@font-face {
+    font-family: garreg;
+    src: url(fonts/garreg.ttf)
+}
+
+.row {
+	text-align: center;
+    padding: 35px 0px;
+}
+
+.row h2 {
+	margin: 0;
+    font-size: 65px;
+}
+
+section.row.headline {
+	background-color: #999;
+	text-align: center;
+	padding: 50px 0px;
+	color: #e7ecda;
+	font-style: italic;
+}
+
+section.row.headline h1 {
+	margin: 0;
+	font-size: 50px;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.bg-green {
+    background-color: #FCFBD8;
+}
+
+.bg-black {
+    background-color: #373934;
+}
+
+.bg-purple {
+    background-color: #FCFBE9;
+}
+
+.bg-blue {
+    background-color: #CFCFCF;
+}
+
+.fontfamily {
+	background-color: #8E8171;
+	color: #fff;
+	font-size: 16px;
+	padding: 10px 0px;
+}
+
+h2.helvetica {
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+h2.futura {
+    font-family: futura;
+}
+
+h2.fette {
+    font-family: fette;
+}
+
+h2.bickham {
+    font-family: bickham;
+    color: #fff;
+}
+
+h2.kingthings {
+    font-family: kingthings;
+}
+
+h2.mrsheppards {
+    font-family: mrsheppards;
+    color: #fff;
+}
+
+h2.garreg {
+    font-family: garreg;
+}
