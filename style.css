@@ -23,6 +23,16 @@
     src: url(fonts/garreg.ttf)
 }
 
+@font-face {
+    font-family: davysdingbats;
+    src: url(fonts/DavysDingbats.ttf)
+}
+
+@font-face {
+    font-family: fauxsnow;
+    src: url(fonts/fauxsnow.ttf)
+}
+
 .row {
 	text-align: center;
     padding: 35px 0px;
@@ -56,6 +66,7 @@ section.row.headline h1 {
 
 .bg-black {
     background-color: #373934;
+	color: #Fff;
 }
 
 .bg-purple {
@@ -71,6 +82,7 @@ section.row.headline h1 {
 	color: #fff;
 	font-size: 16px;
 	padding: 10px 0px;
+	margin: 24px 0px;
 }
 
 h2.helvetica {
@@ -102,4 +114,32 @@ h2.mrsheppards {
 
 h2.garreg {
     font-family: garreg;
+}
+
+h2.droidserif {
+	font-family: 'Droid Serif', serif;
+}
+
+h2.ptserif {
+	font-family: 'PT Serif', serif;
+}
+
+h2.berkshireswash {
+	font-family: 'Berkshire Swash', cursive;	
+}
+
+h2.fascinateinline {
+	font-family: 'Fascinate Inline', cursive;	
+}
+
+h2.ewert {
+	font-family: 'Ewert', cursive;	
+}
+
+h2.davysdingbats {
+	font-family: davysdingbats;
+}
+
+h2.fauxsnow {
+	font-family: fauxsnow;
 }
